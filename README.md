@@ -57,7 +57,7 @@ Git, GitHub Actions, Linux CLI
 • I design tools for real-world attack simulation and red team ops  
 • I develop AI-enhanced analytics engines and logging systems  
 • I create CLI, GUI, and API-driven cybersecurity frameworks
-• CTF Tools – Custom scripts for real-world offensive simulation
+• CTF Tools Custom scripts for real-world offensive simulation
 • Packet manipulation, logging systems, threat decoys
 
 ---
