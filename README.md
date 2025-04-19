@@ -73,6 +73,7 @@ Git, GitHub Actions, Linux CLI
 > ❝ Every byte tells a story. Every day poses a threat. ❞
 
 ---
+![ChatGPT Image 19 Nis 2025 22_15_06](https://github.com/user-attachments/assets/70a7154d-be2e-47a2-823c-77a594206ca5)
 
 <p align="center">
   ⭐ Feel free to explore my tools, fork & collaborate. GitHub is where I weaponize Python. ⭐
