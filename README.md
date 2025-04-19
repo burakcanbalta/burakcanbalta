@@ -26,12 +26,13 @@
 
 | Tool | Description |
 |------|-------------|
-| `SmartNetShield` | Layered firewall with packet inspection, port/IP controls, WAF filtering |
+| `SmartNetShield` | Real-time packet inspection firewall with customizable rules, payload filters, and event logging |
 | `BlackStormDOS` | Advanced stealth-mode DoS tool with WAF detection, proxy chaining |
 | `GhostVPN` | Privacy-first VPN switcher with kill switches, auto cleaner & dark mode |
 | `SSH BruteForcer GUI` | PyQt5-based brute-force tool with real-time password logic & analysis |
 | `MITM Defender` | ARP Spoof & MITM alert utility for defensive monitoring |
 | `AI-Social-OSINT` | Passive recon & profiling from social media activity logs |
+| `sentinel` | AI-powered cybersecurity framework with CVSS scoring, plugin system and OAuth-authenticated API access |
 
 ---
 
