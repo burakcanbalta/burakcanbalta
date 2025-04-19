@@ -32,7 +32,7 @@
 | `SSH BruteForcer GUI` | PyQt5-based brute-force tool with real-time password logic & analysis |
 | `MITM Defender` | ARP Spoof & MITM alert utility for defensive monitoring |
 | `AI-Social-OSINT` | Passive recon & profiling from social media activity logs |
-| `sentinel` | AI-powered cybersecurity framework with CVSS scoring, plugin system and OAuth-authenticated API access |
+| `Sentinel` | AI-powered cybersecurity framework with CVSS scoring, plugin system and OAuth-authenticated API access |
 
 ---
 
