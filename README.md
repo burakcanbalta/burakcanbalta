@@ -1,5 +1,3 @@
-![banner](https://i.imgur.com/kE1HkP9.png)
-
 <h1 align="center">☠️ Burak BALTA – Red Team Operator ☠️</h1>
 
 <p align="center">
@@ -54,10 +52,6 @@
 > ❝ Every byte tells a story. Every log reveals a threat. ❞
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/OsG6Ptj.png" width="600px">
-</p>
 
 <p align="center">
   ⭐ Feel free to explore my tools, fork & collaborate. GitHub is where I weaponize Python. ⭐
