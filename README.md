@@ -59,6 +59,8 @@ Git, GitHub Actions, Linux CLI
 • I create CLI, GUI, and API-driven cybersecurity frameworks 
 • Paket manipülasyonu, günlükleme sistemleri, tehdit tuzakları
 
+
+
 ---
 
 > ❝ Every byte tells a story. Every day poses a threat. ❞
