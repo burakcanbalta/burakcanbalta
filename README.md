@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/burakcanbalta/burakcanbalta/main/banner_image.png)
+![Banner](https://raw.githubusercontent.com/burakcanbalta/burakcanbalta/main/A_digital_graphic_design_features_cybersecurity-th.png)
 
 <h1 align="center">☠️ Burak BALTA – Red Team Operator ☠️</h1>
 
