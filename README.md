@@ -43,11 +43,22 @@
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-informational?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-- Python / Bash / Scapy / Flask / Requests
-- Packet manipulation, logging systems, threat decoys
-- CTF Tools – Custom scripts for real-world offensive simulation
-- Dev stack for CLI, GUI, API + rapid ops deployment
+💻 Programming & Scripting:
+Python, Bash, PowerShell
 
+🌐 Networking & Security:
+Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit
+
+⚙️ Version Control & Automation:
+Git, GitHub Actions, Linux CLI
+
+🧠 My Approach:
+• I build modular and scalable system architectures  
+• I design tools for real-world attack simulation and red team ops  
+• I develop AI-enhanced analytics engines and logging systems  
+• I create CLI, GUI, and API-driven cybersecurity frameworks
+• CTF Tools – Custom scripts for real-world offensive simulation
+• Packet manipulation, logging systems, threat decoys
 ---
 
 > ❝ Every byte tells a story. Every day poses a threat. ❞
