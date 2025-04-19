@@ -53,10 +53,15 @@ Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit
 Git, GitHub Actions, Linux CLI
 
 🧠 My Approach:
+
 • I build modular and scalable system architectures  
+
 • I design tools for real-world attack simulation and red team ops  
+
 • I develop AI-enhanced analytics engines and logging systems  
+
 • I create CLI, GUI, and API-driven cybersecurity frameworks 
+
 • Paket manipülasyonu, günlükleme sistemleri, tehdit tuzakları
 
 
