@@ -59,6 +59,7 @@ Git, GitHub Actions, Linux CLI
 • I create CLI, GUI, and API-driven cybersecurity frameworks
 • CTF Tools – Custom scripts for real-world offensive simulation
 • Packet manipulation, logging systems, threat decoys
+
 ---
 
 > ❝ Every byte tells a story. Every day poses a threat. ❞
