@@ -56,7 +56,9 @@ Git, GitHub Actions, Linux CLI
 • I build modular and scalable system architectures  
 • I design tools for real-world attack simulation and red team ops  
 • I develop AI-enhanced analytics engines and logging systems  
-• I create CLI, GUI, and API-driven cybersecurity frameworks
+• I create CLI, GUI, and API-driven cybersecurity frameworks 
+• Paket manipülasyonu, günlükleme sistemleri, tehdit tuzakları 
+• CTF Araçları Gerçek dünya saldırı simülasyonu için özel komut dosyaları 
 
 
 ---
