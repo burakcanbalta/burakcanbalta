@@ -1,7 +1,7 @@
 <h1 align="center">☠️ Burak BALTA – Red Team Operator ☠️</h1>
 
 <p align="center">
-  <b>Python Junior | Network Intrusions | CTF Hunter | Packet Surgeon</b><br>
+  <b>Python Junior | Network Intrusions | CTF Hunter | Penetration Testing | Privilege Escalation | Packet Surgeon</b><br>
   <code>Building low-level offensive tooling & stealth cyber operations kits</code>
 </p>
 
