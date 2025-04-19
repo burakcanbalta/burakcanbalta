@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/burakcanbalta/burakcanbalta/main/banner_image.png)
+
 <h1 align="center">☠️ Burak BALTA – Red Team Operator ☠️</h1>
 
 <p align="center">
