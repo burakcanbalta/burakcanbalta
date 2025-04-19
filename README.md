@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-upload-path/anonymous_slogan.jpg" width="700px" alt="Anonymous Slogan" />
-</p>
+![banner](https://i.imgur.com/kE1HkP9.png)
 
 <h1 align="center">☠️ Burak BALTA – Red Team Operator ☠️</h1>
 
