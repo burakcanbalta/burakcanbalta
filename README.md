@@ -49,7 +49,7 @@
 
 ---
 
-> ❝ Every byte tells a story. Every day a threat emerges. ❞
+> ❝ Every byte tells a story. Every day poses a threat. ❞
 
 ---
 
