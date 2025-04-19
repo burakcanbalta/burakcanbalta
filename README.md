@@ -1,5 +1,4 @@
-![Banner](https://raw.githubusercontent.com/burakcanbalta/burakcanbalta/main/A_digital_graphic_design_features_cybersecurity-th.png)
-
+![ChatGPT Image 19 Nis 2025 22_15_06](https://github.com/user-attachments/assets/70a7154d-be2e-47a2-823c-77a594206ca5)
 <h1 align="center">☠️ Burak BALTA – Red Team Operator ☠️</h1>
 
 <p align="center">
