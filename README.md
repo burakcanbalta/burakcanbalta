@@ -7,71 +7,96 @@
 
 ---
 
-### 🧠 Key Skillset
-- 🛡️ Network security hardening and firewall bypass techniques  
-- 🔍 Web & infrastructure reconnaissance for penetration testing  
-- 🚪 Privilege escalation scenarios across Linux & Windows environments  
-- 🔧 Scripting custom payloads, brute-force engines, and anti-detection logics  
-- ⚔️ End-to-end simulated red team operations from recon to post-exploitation
-- 🛠️ Custom Brute Force Engines (PyQt5 / CLI / Logging / Proxy)
-- 🔥 DoS & DDoS Frameworks with stealth, spoof & bypass logic
-- 🧪 Exploit simulation tools (SQLi/XSS/LFI/BAC)
-- 🔍 MITM & Packet Interception Detection
-- 🎯 Red Team & Threat Simulation Infrastructure
-- 🐚 Bash / Python payload chains, listener modules, honeypots
+### 🧠 CORE DOMAINS OF INFLUENCE
+- 🕷️ **Network Ghosting & Firewall Evasion** – Packet cloaking, tunneling, anti-detection chains  
+- 🕵️ **Deep Recon & Footprint Analysis** – Stealth scanning, web & infra mapping, intel automation  
+- 🚪 **Privilege Escalation Tactician** – Linux & Windows post-exploitation, lateral movement vectors  
+- 🧰 **Payload & Exploit Engineering** – Custom Python/Bash shells, listener modules, hybrid payloads  
+- ⚔️ **Full-Spectrum Red Ops** – Recon → Exploit → Persistence → Exfiltration → Cover Tracks  
+- 🔥 **DoS/DDoS Orchestration** – Adaptive WAF bypass, spoofed vectors, proxy-chained attacks  
+- 🧪 **Exploit Simulation Lab** – SQLi/XSS/LFI/BAC edge-case testing & PoC automation  
+- 🐚 **Shellcraft & Listener Network** – Hybrid shells, multi-node command chains, event-driven triggers  
+- 🛡️ **Anti-Forensics & Logging Manipulation** – Real-time detection evasion, decoy trails, log scrubbing  
 
 ---
 
-### ⚔️ My Arsenal (Pinned Repos)
+### ⚔️ WEAPONIZED TOOLKIT (Pinned Repos)
 
-| Tool | Description |
-|------|-------------|
-| `SmartNetShield` | Real-time packet inspection firewall with customizable rules, payload filters, and event logging |
-| `BlackStormDOS` | Advanced stealth-mode DoS tool with WAF detection, proxy chaining |
-| `GhostVPN` | Privacy-first VPN switcher with kill switches, auto cleaner & dark mode |
-| `SSH BruteForcer GUI` | PyQt5-based brute-force tool with real-time password logic & analysis |
-| `MITM Defender` | ARP Spoof & MITM alert utility for defensive monitoring |
-| `AI-Social-OSINT` | Passive recon & profiling from social media activity logs |
-| `Sentinel` | AI-powered cybersecurity framework with CVSS scoring, plugin system and OAuth-authenticated API access |
+| Tool | Mission Profile |
+|------|----------------|
+| `SmartNetShield` | Adaptive packet inspection firewall with live rule injection & forensic evasion |
+| `BlackStormDOS` | Stealth-mode DoS orchestrator with dynamic proxy & WAF fingerprinting |
+| `GhostVPN` | Autonomous VPN switcher, kill-switch logic, log wipers, dark mode |
+| `SSH BruteForcer GUI` | PyQt5-based password brute-force engine with AI-driven probability analysis |
+| `MITM Defender` | ARP/MITM detection and active countermeasure toolkit |
+| `AI-Social-OSINT` | Passive OSINT pipeline, social footprint profiling, behavior tracking |
+| `Sentinel` | AI-powered offensive security framework with modular exploit delivery & CVSS scoring |
 
 ---
 
-### 🕶️ Tools, Tech & Ops
+### 🕶️ TECH STACK & OPS ENVIRONMENT
+
+**Programming & Scripting:** Python, Bash, PowerShell  
+**Network & Security Arsenal:** Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit, Proxychains  
+**Versioning & Automation:** Git, GitHub Actions, CLI pipelines, cron automation  
 
 ![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&style=flat)
 ![RedTeam](https://img.shields.io/badge/type-red--team-critical?style=flat)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-informational?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-💻 Programming & Scripting:
-Python, Bash, PowerShell
+---
 
-🌐 Networking & Security:
-Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit
+### ⚡ HACKER PHILOSOPHY
+> “Every packet is a whisper. Every shell is a shadow. Networks are playgrounds and warzones. Persistence is the only currency of dominance.”  
 
-⚙️ Version Control & Automation:
-Git, GitHub Actions, Linux CLI
-
-🧠 My Approach:
-
-• I build modular and scalable system architectures  
-
-• I design tools for real-world attack simulation and red team ops  
-
-• I develop AI-enhanced analytics engines and logging systems  
-
-• I create CLI, GUI, and API-driven cybersecurity frameworks 
-
-• Paket manipülasyonu, günlükleme sistemleri, tehdit tuzakları
-
-
+> “I do not break for fun. I break to simulate, secure, and understand. The unseen layer is where I operate.”  
 
 ---
 
-> ❝ Every byte tells a story. Every day poses a threat. ❞
+### 🧩 RED TEAM OPERATIONS MANIFESTO
+1. **Recon is religion** – know your target, its heartbeat, and blind spots.  
+2. **Payloads are weapons** – stealth, modularity, and chainability matter more than raw code.  
+3. **Logs are lies** – leave breadcrumbs, not evidence.  
+4. **Persistence is power** – lateral moves > vertical bursts.  
+5. **Ops are art** – every exploit tells a story; every network is a canvas.  
 
 ---
 
-<p align="center">
-  ⭐ Feel free to explore my tools, fork & collaborate. GitHub is where I weaponize Python. ⭐
-</p>
+🔥 Enter the shadows. Explore the payloads. Collaborate if you dare. This is not GitHub; this is the arsenal of the unseen. 🔥
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣬⢧⣬⡒⠀⠀⠀⢀⣠⠝⠉⠉⠉⠉⠁⠀⠸⠟⠙⠹⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⡹⠒⠚⠁⣠⠞⣉⠀⢀⡴⠚⠉⠁⡀⠀⠀⠀⠀⠀⠀⠉⠙⠲⠶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡤⠴⠞⠁⠀⠀⢀⢞⡡⠊⠁⡰⢋⣠⣶⠖⠋⠁⠀⠠⡄⠀⠀⠀⠀⠀⠀⢠⡀⣀⣉⠭⠿⠟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢯⣍⡻⠭⠭⠤⠄⣀⠴⠂⠀⣰⠟⠉⠀⣠⡾⠛⢩⣷⠃⠀⠀⠀⠀⠀⢱⠀⡆⡀⣠⠀⠀⠘⢿⠮⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⣛⡿⣣⢯⠄⡴⢫⡅⠀⢀⡴⠃⠀⠀⣾⠇⠀⠀⢸⠀⠀⠀⠸⡄⡇⡇⣿⡇⠀⠀⠈⢷⡄⠙⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⣰⠟⣡⢞⡵⠋⠀⢠⠎⠀⡤⠀⢠⡟⠀⠀⠀⡇⢠⠀⡀⠀⣷⣷⣧⢿⡗⢲⡀⠀⢸⡿⡄⠀⠙⢾⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⢴⣚⣡⠞⠞⠁⣾⠵⠋⢀⢆⣴⠏⣠⠊⢀⣠⡼⠀⠀⠀⠀⡷⠘⣷⡇⢰⣿⣿⣳⡼⣧⠸⣷⠀⠀⠇⠙⢦⡀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠁⣼⠃⣠⡾⠉⠀⠀⢀⡿⠋⣸⠞⢁⡠⠋⠁⠀⠀⠀⠀⣴⠃⣸⣿⡃⢸⣱⡸⢻⣿⣿⣿⣿⢸⠀⢤⠀⢀⠙⢦⡀⠹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡷⣾⣿⠃⠀⡄⢀⡜⠁⠐⡧⠴⠊⠀⠀⠀⢀⠀⢠⠖⠛⢠⣿⡏⡇⣸⣿⣿⣾⣿⣿⣿⣿⣸⡄⠈⣦⠈⣧⠠⣷⡦⣝⡟⠦⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠟⢰⣿⠃⠀⣼⢠⡟⡀⠀⠀⡇⢀⡇⢰⠀⢀⡎⢠⡏⠀⡤⢸⣿⡇⣧⠿⣯⣿⣿⣿⣿⣿⣿⣷⣷⢀⡈⢧⣹⢦⡙⢷⡀⠉⠙⠛⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠤⠒⠃⠀⣰⢟⣥⠃⢠⣧⡟⣰⡇⠀⠀⢀⡞⣰⣧⠀⡜⣰⢻⠃⢸⣸⠈⢻⣳⣇⡿⣿⠘⢿⣿⣼⣿⣏⣿⣿⡇⠟⣦⡉⢳⡘⠓⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣞⣵⣟⠁⢀⣾⢿⡹⣹⠀⢠⢀⠞⣰⣻⠃⣰⡷⠃⣸⡆⡏⡿⠀⢸⠉⢹⡇⣿⣿⣼⣿⡿⣿⣿⣼⣹⡀⢠⣿⣿⠸⡗⢶⣶⣯⡿⠶⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⠿⠋⣞⡼⢀⡞⢹⣿⡇⣿⠀⡟⣏⡼⣱⣯⡶⠿⠁⡄⢹⣿⢧⠃⠀⢸⠀⣼⡏⢙⣿⠻⣿⣷⣽⣿⣿⡻⡇⢸⢯⡇⣷⡿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⣰⡿⣣⣿⠀⣼⣿⣿⡟⢸⢀⣿⠱⢋⡟⠀⢀⠆⡇⣼⡏⠸⢠⠃⢻⣴⣿⠁⢸⣿⠀⣿⢻⣿⢿⡍⡛⣇⣾⣦⣷⡈⢿⠯⢷⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣯⡟⢩⡟⣰⠟⢦⣯⣇⣼⣿⡇⠀⣿⡇⠀⣼⣿⢳⠀⡇⡀⣾⢰⣼⣿⣿⣀⣿⣿⡄⣿⣿⣿⠀⡇⣅⣿⣵⠇⣿⣿⣮⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠛⠀⢸⣵⢻⣄⣆⣿⣿⣿⣿⡇⢀⣿⡇⢠⣻⢹⣾⣰⢷⢷⣿⢸⣿⣿⣻⣿⡿⠿⣿⣿⠾⡏⢰⠃⣿⡿⡟⢿⣏⣻⡈⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠇⢸⣿⣾⣷⣻⣏⣿⣇⣼⡿⡇⣸⣿⣾⣷⣿⣩⣿⣯⡿⢡⣿⣿⣿⣿⣿⣿⣯⣄⣹⡟⣤⣿⣾⢀⣾⠏⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠁⠀⢸⣿⠻⣏⡟⣿⣿⣿⣿⣡⣿⣿⣿⣿⣿⣿⣿⣿⣿⡓⠃⢘⣿⠟⣿⣭⢳⠉⠹⠿⢠⣿⡏⣹⣿⣿⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠾⠃⠀⠙⣦⣻⣿⠿⠙⡿⢿⣿⣽⠋⢯⣿⡏⠀⠻⠃⣤⣻⢏⣀⠛⠟⢋⣤⠗⣠⡄⣿⡴⠋⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣿⠲⠀⠀⠘⠋⠛⠀⠈⠿⠁⠀⠀⠀⠐⠌⠓⠛⣿⠿⡿⠓⠀⠉⢠⣟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢻⣟⡭⠁⠀⢀⣾⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⡌⢷⡀⢤⡄⠀⠀⠀⠀⠳⣄⢀⡤⠀⠀⠀⠀⠀⣿⣷⠀⢀⣼⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⣾⣿⣿⣿⣿⣿⣿⣿⡇⠀⢿⣄⠋⠲⢶⣤⣀⣀⣤⣤⣶⣶⣶⣶⣶⠖⠋⠀⣠⠞⢹⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠛⢦⡀⡓⠿⣿⣟⣻⡿⢖⣚⣿⠟⠁⢀⣴⠞⠁⠀⣾⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠀⠘⡎⣿⣷⣤⡈⠛⠛⠻⠛⠛⠉⢁⣴⣿⠋⠐⣠⣾⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⢁⠘⣿⢷⣤⣀⣀⠀⣀⣠⣿⠿⡻⣡⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡖⠘⠦⢼⣟⠸⠛⢻⣻⣽⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⣬⠽⣷⣶⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀
+⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣋⣀⣿⠏⠰⢺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡬⣿⣿⢯⣷⣶⠝⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡘⠛⢤⣀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣌⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣷⣶⢿⣷⣶⢤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠉
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣒⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢧⣴⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢛⣩⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶
+⣿⣿⣿⣿⣿⣿⣿⣦⣭⣉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣮⣿⡖⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⠿⠿⠿⢿⣿⣿⠿⢿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⠿⠟⢛⣥⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣏⣾⣟⢿⣿⣿⣿⣿⣿
