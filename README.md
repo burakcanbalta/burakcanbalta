@@ -55,6 +55,13 @@
 ![Firewall](https://img.shields.io/badge/firewall-active-green?style=flat)
 ![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat)
 ![Stealth](https://img.shields.io/badge/stealth-activated-darkgreen?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-database-4479A1?style=flat&logo=mysql)
+![SIEM](https://img.shields.io/badge/SIEM-Operational-blue?style=flat)
+![SOC](https://img.shields.io/badge/SOC-Active-green?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-Data-black?style=flat&logo=splunk)
+![ELK](https://img.shields.io/badge/ELK-Stack-orange?style=flat)
+![Security](https://img.shields.io/badge/security-monitoring-red?style=flat)
+![Incident](https://img.shields.io/badge/incident-response-yellow?style=flat)
 
 ---
 
