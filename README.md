@@ -38,14 +38,10 @@
 **Programming & Scripting:** Python, Bash, PowerShell  
 **Network & Security Arsenal:** Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit, Proxychains  
 **Versioning & Automation:** Git, GitHub Actions, CLI pipelines, cron automation  
-
-#### Badges
-
 ![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&style=flat)
 ![RedTeam](https://img.shields.io/badge/type-red--team-critical?style=flat)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-informational?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
 ![Bash](https://img.shields.io/badge/bash-4.4-555?style=flat&logo=gnu-bash)
 ![PowerShell](https://img.shields.io/badge/PowerShell-7.3-0078D7?style=flat&logo=powershell)
 ![Metasploit](https://img.shields.io/badge/Metasploit-framework-ff69b4?style=flat&logo=metasploit)
@@ -57,7 +53,6 @@
 ![Contributors](https://img.shields.io/badge/contributors-active-brightgreen?style=flat)
 ![Security](https://img.shields.io/badge/security-high-red?style=flat)
 ![Firewall](https://img.shields.io/badge/firewall-active-green?style=flat)
-![CodeQL](https://img.shields.io/badge/codeql-analysis-success-brightgreen?style=flat)
 ![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat)
 ![Stealth](https://img.shields.io/badge/stealth-activated-darkgreen?style=flat)
 
