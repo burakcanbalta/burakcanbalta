@@ -57,12 +57,9 @@
 ![Contributors](https://img.shields.io/badge/contributors-active-brightgreen?style=flat)
 ![Security](https://img.shields.io/badge/security-high-red?style=flat)
 ![Firewall](https://img.shields.io/badge/firewall-active-green?style=flat)
-![PenTest](https://img.shields.io/badge/pen-test-ongoing-yellow?style=flat)
 ![CodeQL](https://img.shields.io/badge/codeql-analysis-success-brightgreen?style=flat)
 ![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat)
-![Hacker](https://img.shields.io/badge/hacker-mode-on-black?style=flat)
 ![Stealth](https://img.shields.io/badge/stealth-activated-darkgreen?style=flat)
-![RedTeam](https://img.shields.io/badge/red-team-active-red?style=flat)
 
 ---
 
