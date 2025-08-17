@@ -65,14 +65,7 @@
 
 ---
 
-### ⚡ HACKER PHILOSOPHY 👒⚔🏴‍☠️🌊
-> “Every packet is a whisper. Every shell is a shadow. Networks are playgrounds and warzones. Persistence is the only currency of dominance.”  
-
-> “I do not break for fun. I break to simulate, secure, and understand. The unseen layer is where I operate.”  
-
----
-
-### 🧩 RED TEAM OPERATIONS MANIFESTO
+### 🧩 RED TEAM OPERATIONS MANIFESTO 👒⚔🏴‍☠️🌊
 1. **Recon is religion** – know your target, its heartbeat, and blind spots.  
 2. **Payloads are weapons** – stealth, modularity, and chainability matter more than raw code.  
 3. **Logs are lies** – leave breadcrumbs, not evidence.  
