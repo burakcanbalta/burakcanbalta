@@ -60,22 +60,6 @@
 ![SOC](https://img.shields.io/badge/SOC-Active-green?style=flat)
 ![Security](https://img.shields.io/badge/security-monitoring-red?style=flat)
 ![Incident](https://img.shields.io/badge/incident-response-yellow?style=flat)
-
----
-
-### 🧩 RED TEAM OPERATIONS MANIFESTO 👒⚔🏴‍☠️🌊
-1. **Recon is religion** – know your target, its heartbeat, and blind spots.  
-2. **Payloads are weapons** – stealth, modularity, and chainability matter more than raw code.  
-3. **Logs are lies** – leave breadcrumbs, not evidence.  
-4. **Persistence is power** – lateral moves > vertical bursts.  
-5. **Ops are art** – every exploit tells a story; every network is a canvas.  
-
----
-
-<p align="center">
-🔥 Enter the shadows. Explore the payloads. Collaborate if you dare. This is not GitHub; this is the arsenal of the unseen. 🔥
-</p>
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠢⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠢⠤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
