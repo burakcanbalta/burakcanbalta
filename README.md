@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burakcanbalta/burakcanbalta/blob/main/header.svg" alt="Burak BALTA Red Team Operator" width="800" height="300"/>
+  <img src="./header.svg" alt="Burak BALTA Red Team Operator" width="800" height="300"/>
 </p>
 
 <h1 align="center">㊙ Burak BALTA ඞ Red Team Operator 🥋</h1>
