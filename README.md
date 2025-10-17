@@ -7,8 +7,6 @@
 
 ---
 
-## 🎯 LIVE OPERATIONS DASHBOARD
-
 <div align="center">
 
 ### 🔴 OFFENSIVE CYBERSECURITY
@@ -35,8 +33,6 @@
 - 🛡️ **Anti-Forensics & Logging Manipulation** – Real-time detection evasion, decoy trails, log scrubbing  
 
 ---
-
-## 🛡️ DEFENSIVE CYBERSECURITY MONITORING
 
 <div align="center">
 
