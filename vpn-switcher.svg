@@ -1,0 +1,36 @@
+<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- VPN Tunnel -->
+  <line x1="100" y1="100" x2="400" y2="100" stroke="#58a6ff" stroke-width="3" stroke-dasharray="8,4">
+    <animate attributeName="stroke-dashoffset" values="0;12" dur="1s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- VPN Icon -->
+  <circle cx="100" cy="100" r="15" fill="#58a6ff">
+    <animate attributeName="fill" values="#58a6ff;#00ff00;#58a6ff" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="100" y="105" font-family="monospace" font-size="8" fill="white" text-anchor="middle">VPN</text>
+  
+  <!-- IP Adresleri -->
+  <text x="250" y="80" font-family="monospace" font-size="12" fill="#c9d1d9" text-anchor="middle">
+    <tspan id="ip1">192.168.1.105</tspan>
+    <animate xlink:href="#ip1" attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite" begin="0s"/>
+  </text>
+  
+  <text x="250" y="100" font-family="monospace" font-size="12" fill="#58a6ff" text-anchor="middle">
+    <tspan id="ip2">10.0.0.47</tspan>
+    <animate xlink:href="#ip2" attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" begin="1s"/>
+  </text>
+  
+  <text x="250" y="120" font-family="monospace" font-size="12" fill="#00ff00" text-anchor="middle">
+    <tspan id="ip3">185.216.32.119</tspan>
+    <animate xlink:href="#ip3" attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite" begin="2s"/>
+  </text>
+  
+  <!-- Switching Text -->
+  <text x="250" y="150" font-family="monospace" font-size="10" fill="#ff6b6b" text-anchor="middle">
+    🔄 VPN Switching...
+    <animate attributeName="fill" values="#ff6b6b;#58a6ff;#ff6b6b" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
