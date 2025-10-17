@@ -140,19 +140,40 @@
 
 ## 📊 OPERATIONAL METRICS
 
-```python
-class CyberSecurityOperator:
-    def __init__(self):
-        self.skills = {
-            'red_team_operations': 85,
-            'blue_team_defense': 78,
-            'exploit_development': 82,
-            'incident_response': 75,
-            'tool_development': 80
-        }
-        self.status = "ACTIVE"
-        self.mode = "FULL_SPECTRUM"
-        
-operator = CyberSecurityOperator()
-print(f"Operational Status: {operator.status}")
-print(f"Engagement Mode: {operator.mode}")
+```go
+package main
+
+import "fmt"
+
+type CyberSecurityOperator struct {
+    Name          string
+    Codename      string
+    Status        string
+    Clearance     string
+    Specializations map[string]int
+    SuccessRate   float64
+}
+
+func main() {
+    operator := CyberSecurityOperator{
+        Name:      "Burak BALTA", 
+        Codename:  "SPECTRE",
+        Status:    "ACTIVE",
+        Clearance: "TOP_SECRET",
+        SuccessRate: 94.7,
+        Specializations: map[string]int{
+            "Red Team Operations":   88,
+            "Malware Analysis":      85,
+            "Reverse Engineering":   82,
+            "Exploit Development":   84,
+            "Network Security":      87,
+            "Incident Response":     78,
+            "Digital Forensics":     80,
+        },
+    }
+
+    fmt.Printf("Operational Status: %s\n", operator.Status)
+    fmt.Printf("Engagement Mode: %s\n", operator.Clearance)
+    fmt.Printf("Mission Success Rate: %.1f%%\n", operator.SuccessRate)
+}
+```
