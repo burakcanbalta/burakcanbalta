@@ -1,10 +1,13 @@
-⠀⠀⠀⠀⠀⠀<h1 align="center"> ㊙  Burak BALTA ඞ Red Team Operator 🥋 </h1>               
 <p align="center">
-<b>Python Junior | Network Intrusions | CTF Hunter | Penetration Testing | Privilege Escalation | Packet Surgeon</b><br>
-<code>Building low-level offensive tooling & stealth cyber operations kits</code>
+  <img src="./header.svg" alt="Burak BALTA Red Team Operator" width="800" height="300"/>
 </p>
 
-![Animated Header](./header.svg)
+<h1 align="center">㊙ Burak BALTA ඞ Red Team Operator 🥋</h1>
+
+<p align="center">
+  <b>Python Junior | Network Intrusions | CTF Hunter | Penetration Testing | Privilege Escalation</b><br>
+  <code>Building offensive security tools & stealth operation frameworks</code>
+</p>
 
 --- 
 ### 🧠 CORE DOMAINS OF INFLUENCE
