@@ -39,10 +39,6 @@
 
 ### 🕶️ TECH STACK & OPS ENVIRONMENT
 
-**Programming & Scripting:** Python, Bash, PowerShell  
-**Network & Security Arsenal:** Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit, Proxychains  
-**Versioning & Automation:** Git, GitHub Actions, CLI pipelines, cron automation 
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&style=flat)
