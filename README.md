@@ -5,6 +5,23 @@
   <code>Building offensive security tools & stealth operation frameworks</code>
 </p>
 
+---
+
+## 🎯 LIVE OPERATIONS DASHBOARD
+
+<div align="center">
+
+### 🔴 OFFENSIVE CYBERSECURITY
+| ![Terminal Exploit](./terminal-exploit.svg) | ![C2 Beacon](./c2-beacon.svg) |
+|:---:|:---:|
+| **Live Exploit Development** | **C2 Infrastructure** |
+
+| ![Payload Pipeline](./payload-pipeline.svg) | ![VPN Switcher](./vpn-switcher.svg) |
+|:---:|:---:|
+| **Attack Lifecycle** | **Stealth Operations** |
+
+</div>
+
 --- 
 ### 🧠 CORE DOMAINS OF INFLUENCE
 - 🕷️ **Network Ghosting & Firewall Evasion** – Packet cloaking, tunneling, anti-detection chains  
@@ -19,6 +36,23 @@
 
 ---
 
+## 🛡️ DEFENSIVE CYBERSECURITY MONITORING
+
+<div align="center">
+
+### 🔵 DEFENSE & DETECTION SYSTEMS
+| ![SIEM Radar](./siem-radar.svg) | ![Detection Rule](./detection-rule.svg) |
+|:---:|:---:|
+| **Threat Intelligence** | **Real-time Alerts** |
+
+| ![Honeypot Trap](./honeypot.svg) | ![Forensic Timeline](./forensic-timeline.svg) |
+|:---:|:---:|
+| **Active Defense** | **Incident Response** |
+
+</div>
+
+---
+
 ### ⚔️ WEAPONIZED TOOLKIT (Pinned Repos) 🔵🤞🏻🔴🤌🏻🫴🏻🟣
 
 | Tool | Mission Profile |
@@ -30,6 +64,20 @@
 | `MITM Defender` | ARP/MITM detection and active countermeasure toolkit |
 | `AI-Social-OSINT` | Passive OSINT pipeline, social footprint profiling, behavior tracking |
 | `Sentinel` | AI-powered offensive security framework with modular exploit delivery & CVSS scoring |
+
+---
+
+## 🎖️ SECURITY BADGES & RECOGNITION
+
+<div align="center">
+
+![Animated Shields](./shields.svg)
+
+**Red & Blue Team Expertise - Full Spectrum Cybersecurity**
+
+![Badge Carousel](./badge-carousel.svg)
+
+</div>
 
 ---
 
@@ -66,3 +114,24 @@
 ![Incident](https://img.shields.io/badge/incident-response-yellow?style=flat)
 
 </div>
+
+---
+
+## 📊 OPERATIONAL METRICS
+
+```python
+class CyberSecurityOperator:
+    def __init__(self):
+        self.skills = {
+            'red_team_operations': 85,
+            'blue_team_defense': 78,
+            'exploit_development': 82,
+            'incident_response': 75,
+            'tool_development': 80
+        }
+        self.status = "ACTIVE"
+        self.mode = "FULL_SPECTRUM"
+        
+operator = CyberSecurityOperator()
+print(f"Operational Status: {operator.status}")
+print(f"Engagement Mode: {operator.mode}")
