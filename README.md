@@ -1,11 +1,15 @@
-⠀⠀⠀⠀⠀⠀<h1 align="center"> ㊙  Burak BALTA ඞ Red Team Operator 🥋 </h1>               
+![header](./header.svg)
+
+<h1 align="center"> ㊙️ Burak BALTA ඞ Red Team Operator 🥋 </h1>
+
 <p align="center">
 <b>Python Junior | Network Intrusions | CTF Hunter | Penetration Testing | Privilege Escalation | Packet Surgeon</b><br>
 <code>Building low-level offensive tooling & stealth cyber operations kits</code>
 </p>
 
---- 
-### 🧠 CORE DOMAINS OF INFLUENCE
+---
+
+## 🧠 CORE DOMAINS OF INFLUENCE
 - 🕷️ **Network Ghosting & Firewall Evasion** – Packet cloaking, tunneling, anti-detection chains  
 - 🕵️ **Deep Recon & Footprint Analysis** – Stealth scanning, web & infra mapping, intel automation  
 - 🚪 **Privilege Escalation Tactician** – Linux & Windows post-exploitation, lateral movement vectors  
@@ -18,81 +22,42 @@
 
 ---
 
-### ⚔️ WEAPONIZED TOOLKIT (Pinned Repos) 🔵🤞🏻🔴🤌🏻🫴🏻🟣
+## ⚔️ WEAPONIZED TOOLKIT
 
 | Tool | Mission Profile |
 |------|----------------|
-| `SmartNetShield` | Adaptive packet inspection firewall with live rule injection & forensic evasion |
-| `BlackStormDOS` | Stealth-mode DoS orchestrator with dynamic proxy & WAF fingerprinting |
-| `GhostVPN` | Autonomous VPN switcher, kill-switch logic, log wipers, dark mode |
-| `SSH BruteForcer GUI` | PyQt5-based password brute-force engine with AI-driven probability analysis |
-| `MITM Defender` | ARP/MITM detection and active countermeasure toolkit |
-| `AI-Social-OSINT` | Passive OSINT pipeline, social footprint profiling, behavior tracking |
-| `Sentinel` | AI-powered offensive security framework with modular exploit delivery & CVSS scoring |
+| 🧠 **SmartNetShield** | Adaptive packet inspection firewall with live rule injection & forensic evasion |
+| 🌩 **BlackStormDOS** | Stealth-mode DoS orchestrator with dynamic proxy & WAF fingerprinting |
+| 👻 **GhostVPN Switcher** | VPN tunnel spawns, IP mask fades dynamically, stealth chain rotation |
+| 📡 **C2 Beacon (DNS/ICMP)** | Red pulse packets beacon to C2 → blue-side log trace alert morphs |
+| 🕳 **Honeypot Trap** | Bot enters → trapped → alert sent to SIEM & animated red flare |
+| 🛡 **Animated Shields** | Red Shield ↔ Blue Shield morph transition (mimics real-time defense flips) |
+| ⌨️ **Typewriter Intro** | “Burak BALTA — Red Team Operator” text typed, erased in loop |
+| 🪩 **Badge Carousel** | Auto-scrolling animated badges (skills, tools, ops icons) |
 
 ---
 
-### 🕶️ TECH STACK & OPS ENVIRONMENT
+## ⚙️ TECH STACK & OPS ENVIRONMENT
 
-**Programming & Scripting:** Python, Bash, PowerShell  
-**Network & Security Arsenal:** Nmap, Wireshark, Netcat, VPN, Burp Suite, Metasploit, Proxychains  
-**Versioning & Automation:** Git, GitHub Actions, CLI pipelines, cron automation 
-ʙᴀɴᴋᴀɪ!
+**Languages:** Python 🐍 | Bash 🧨 | PowerShell ⚡  
+**Toolset:** Nmap · Wireshark · Burp · Netcat · Proxychains · Metasploit  
+**Infra:** Linux · Windows · Docker · GitHub Actions · CI/CD Pipelines  
+**Ops:** Threat Emulation · Detection Engineering · SIEM & SOC Response  
+
+---
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&style=flat)
 ![RedTeam](https://img.shields.io/badge/type-red--team-critical?style=flat)
+![BlueTeam](https://img.shields.io/badge/type-blue--team-informational?style=flat)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-informational?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Bash](https://img.shields.io/badge/bash-4.4-555?style=flat&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/PowerShell-7.3-0078D7?style=flat&logo=powershell)
-![Metasploit](https://img.shields.io/badge/Metasploit-framework-ff69b4?style=flat&logo=metasploit)
-![Nmap](https://img.shields.io/badge/Nmap-network-red?style=flat&logo=nmap)
-![Wireshark](https://img.shields.io/badge/Wireshark-network-0099ff?style=flat&logo=wireshark)
-![Build Status](https://img.shields.io/github/actions/workflow/status/octocat/Hello-World/ci.yml?style=flat)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
-![Issues](https://img.shields.io/badge/issues-open-yellow?style=flat)
-![Contributors](https://img.shields.io/badge/contributors-active-brightgreen?style=flat)
-![Security](https://img.shields.io/badge/security-high-red?style=flat)
-![Firewall](https://img.shields.io/badge/firewall-active-green?style=flat)
-![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat)
-![Stealth](https://img.shields.io/badge/stealth-activated-darkgreen?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-database-4479A1?style=flat&logo=mysql)
-![SIEM](https://img.shields.io/badge/SIEM-Operational-blue?style=flat)
-![SOC](https://img.shields.io/badge/SOC-Active-green?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-scan-red?style=flat&logo=nmap)
+![Wireshark](https://img.shields.io/badge/Wireshark-capture-blue?style=flat&logo=wireshark)
+![SOC](https://img.shields.io/badge/SOC-active-green?style=flat)
 ![Security](https://img.shields.io/badge/security-monitoring-red?style=flat)
 ![Incident](https://img.shields.io/badge/incident-response-yellow?style=flat)
+![Stealth](https://img.shields.io/badge/stealth-activated-darkgreen?style=flat)
 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣄⣀⡀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣤⠖⢀⣴⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠄⠀⠀⠀⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢠⣾⣿⠀⠈⠀⠀⠀⠀⠀⠀⠀⠈⢉⠐⠂⠀⠈⠉⠙⠛⠛⠻⠿⣿⣧⠀⠀⠀⠀⠀⠘⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⣾⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⣀⠉⠁⠒⠒⠒⠦⠄⠠⢄⠀⠹⠀⠀⣷⡄⠀⠀⢤⡠⠤⠴⠦⠀⠤⠀⠀⠤⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣶⣤⣼⣦⣤⣤⣬⣤⣤⣄⣬⣷⠀⠀⠀⠀⠁⢀⠀⠀⢰⣦⣀⣀⣒⣥⣤⡄⢴⣾⡆⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⡀⠀⠀⠀⠀⠀⠀⠀⠤⢈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⡖⣰⣷⡆⠀⣷⣄⠠⢽⣿⣿⣿⣿⣿⡇⣸⣿⠁⡀⠀⡀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣋⣠⣴⣿⠁⠀⡄⠀⠁⠀⠀⢀⡈⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠏⠀⣘⣱⣿⣿⣿⠀⠈⠻⢷⣦⣙⣿⣿⣿⣿⠿⠿⠃⡰⠀⡠⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡐⢀⣷⠀⠈⠆⢀⣾⣿⣷⣶⣶⣦⣤⣤⣤⣤⣤⣤⣤⣾⣿⣿⣿⣿⣿⣷⣦⣤⣤⣤⣤⣥⣤⣤⣤⣤⣶⣾⠇⡐⠁⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠈⠀⠀⢠
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⡄⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⢠⠸
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⠀⣷⡀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢡⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢠⣿⣦
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣼⣿⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣬⣙⠏⠈⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⢸⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⡌⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⡄⠀⠀⢸⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⢸⡄⢻⣿⣿⣏⡛⠿⢿⠿⠿⠿⠋⢙⣛⣛⣛⣿⣿⣿⣿⡿⠟⢛⣿⠏⠀⢸⡇⠀⠀⠈⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣡⠀⠀⠈⣿⡀⠸⣿⣿⣿⣿⡗⢦⣬⣍⣛⣒⣒⣒⣒⣒⣨⣤⠴⢾⣿⣿⠃⠀⠀⣿⠀⠀⠀⣷⣘⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢋⣴⣿⡀⠀⢀⢻⣧⡀⠈⠻⣿⣿⣿⣦⣬⣙⠛⠛⠛⠛⢛⣛⣫⣥⣶⣿⡟⠁⠀⠀⣾⡏⢠⠀⠸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⠘⣿⣧⡀⠀⡙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⣼⣿⡇⢸⠀⠀⠸⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⡟⡀⣿⣿⣷⠀⠁⠌⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⢀⡀⠀⣸⣿⣿⡇⢸⠀⠀⠀⢻⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠃⠀⠀⠀⡗⡇⢹⣿⣿⣧⡀⠀⠅⠘⠻⠿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠈⢀⣾⣿⣿⣿⣿⢸⡆⠀⠀⠀⠉
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⢸⡇⣇⣸⣿⣿⣿⣷⣄⠀⠸⠈⣡⡀⢀⠂⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⣿⣿⡿⢸⡇⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⣿⣿⣿⣿⣿⣿⣿⣷⣄⣀⡀⠃⠘⢀⠿⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⡇⣸⡏⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⡋⣿⣷⣿⣿⠖⠀⠀⢠⣿⣿⣿⣿⣿⡏⢸⣿⢇⣿⠁⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⢸⣿⣿⣿⣿⣿⣿⣿⣿⣷⡌⠋⠛⠋⠀⢀⣶⣿⣿⣿⣿⣿⣿⠁⣾⣿⢸⣿⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⠏⢰⣿⠇⣾⡟⠀⠀⠀⠀⠀
-⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⣸⡿⣰⣿⠃⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡇⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠴⣿⢃⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</div>
