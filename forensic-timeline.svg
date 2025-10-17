@@ -1,0 +1,34 @@
+<svg width="700" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- Timeline -->
+  <line x1="50" y1="100" x2="650" y2="100" stroke="#58a6ff" stroke-width="2"/>
+  
+  <!-- Events -->
+  <g transform="translate(100, 100)">
+    <!-- File Change -->
+    <circle cx="0" cy="0" r="8" fill="#ff6b6b"/>
+    <text x="0" y="25" font-family="monospace" font-size="10" fill="#ff6b6b" text-anchor="middle">File Change</text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    
+    <!-- Process Spawn -->
+    <circle cx="150" cy="0" r="8" fill="#ffd700"/>
+    <text x="150" y="25" font-family="monospace" font-size="10" fill="#ffd700" text-anchor="middle">Process</text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="1s"/>
+    
+    <!-- Network -->
+    <circle cx="300" cy="0" r="8" fill="#00ff00"/>
+    <text x="300" y="25" font-family="monospace" font-size="10" fill="#00ff00" text-anchor="middle">Network</text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="2s"/>
+    
+    <!-- Connection -->
+    <circle cx="450" cy="0" r="8" fill="#58a6ff"/>
+    <text x="450" y="25" font-family="monospace" font-size="10" fill="#58a6ff" text-anchor="middle">Connection</text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="3s"/>
+  </g>
+  
+  <!-- Timeline Pointer -->
+  <circle cx="100" cy="100" r="5" fill="#ff4444">
+    <animate attributeName="cx" from="100" to="550" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
