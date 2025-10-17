@@ -14,18 +14,18 @@
   
   <!-- IP Adresleri -->
   <text x="250" y="80" font-family="monospace" font-size="12" fill="#c9d1d9" text-anchor="middle">
-    <tspan id="ip1">192.168.1.105</tspan>
-    <animate xlink:href="#ip1" attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite" begin="0s"/>
+    <tspan>192.168.1.105</tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite" begin="0s"/>
   </text>
   
   <text x="250" y="100" font-family="monospace" font-size="12" fill="#58a6ff" text-anchor="middle">
-    <tspan id="ip2">10.0.0.47</tspan>
-    <animate xlink:href="#ip2" attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" begin="1s"/>
+    <tspan>10.0.0.47</tspan>
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" begin="1s"/>
   </text>
   
   <text x="250" y="120" font-family="monospace" font-size="12" fill="#00ff00" text-anchor="middle">
-    <tspan id="ip3">185.216.32.119</tspan>
-    <animate xlink:href="#ip3" attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite" begin="2s"/>
+    <tspan>185.216.32.119</tspan>
+    <animate attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite" begin="2s"/>
   </text>
   
   <!-- Switching Text -->
