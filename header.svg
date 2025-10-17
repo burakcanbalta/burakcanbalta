@@ -1,0 +1,54 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- Terminal Cursor Animation -->
+  <text x="50" y="50" font-family="monospace" font-size="14" fill="#00ff00">
+    <tspan x="50" y="50">$ whoami</tspan>
+    <tspan x="50" y="70">Burak BALTA - Red Team Operator</tspan>
+    <tspan x="50" y="90">$ status: [</tspan>
+    <tspan x="168" y="90" fill="#ff4444" id="cursor">█</tspan>
+    <tspan x="182" y="90">] STEALTH_MODE</tspan>
+  </text>
+  
+  <!-- Network Signal Waves -->
+  <circle cx="700" cy="40" r="8" fill="#ff4444" opacity="0.6">
+    <animate attributeName="r" values="8;15;8" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Red Team Badge -->
+  <circle cx="750" cy="40" r="12" fill="none" stroke="#ff4444" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="0,100;100,0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Scanning Dots -->
+  <circle cx="100" cy="150" r="4" fill="#00ff00">
+    <animate attributeName="cy" values="150;140;150" dur="1s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+  <circle cx="120" cy="150" r="4" fill="#00ff00">
+    <animate attributeName="cy" values="150;140;150" dur="1s" repeatCount="indefinite" begin="0.2s"/>
+  </circle>
+  <circle cx="140" cy="150" r="4" fill="#00ff00">
+    <animate attributeName="cy" values="150;140;150" dur="1s" repeatCount="indefinite" begin="0.4s"/>
+  </circle>
+  
+  <!-- C2 Beacon -->
+  <circle cx="650" cy="150" r="6" fill="#ff4444" id="beacon">
+    <animate attributeName="r" values="6;12;6" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Blinking Cursor -->
+  <animate xlink:href="#cursor" attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  
+  <!-- Firewall Shields -->
+  <g transform="translate(500, 100)">
+    <path d="M-20,-20 L0,-35 L20,-20 L15,0 L0,15 L-15,0 Z" fill="none" stroke="#0078D7" stroke-width="2" id="blueShield">
+      <animateTransform attributeName="transform" type="rotate" values="0;15;0;-15;0" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-15,-15 L0,-25 L15,-15 L10,5 L0,10 L-10,5 Z" fill="none" stroke="#ff4444" stroke-width="2" id="redShield">
+      <animateTransform attributeName="transform" type="rotate" values="0;-10;0;10;0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
