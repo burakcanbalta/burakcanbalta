@@ -5,8 +5,6 @@
 ## 🚀 HAKKIMDA
 Python Junior | Network Intrusions | CTF Hunter | Penetration Testing
 
-![Animated Header](./header.svg)
-
 --- 
 ### 🧠 CORE DOMAINS OF INFLUENCE
 - 🕷️ **Network Ghosting & Firewall Evasion** – Packet cloaking, tunneling, anti-detection chains  
