@@ -1,8 +1,9 @@
-⠀⠀⠀⠀⠀⠀<h1 align="center"> ㊙  Burak BALTA ඞ Red Team Operator 🥋 </h1>               
-<p align="center">
-<b>Python Junior | Network Intrusions | CTF Hunter | Penetration Testing | Privilege Escalation | Packet Surgeon</b><br>
-<code>Building low-level offensive tooling & stealth cyber operations kits</code>
-</p>
+# ㊙ Burak BALTA ඞ Red Team Operator 🥋
+
+![Animated Header](./header.svg)
+
+## 🚀 HAKKIMDA
+Python Junior | Network Intrusions | CTF Hunter | Penetration Testing
 
 ![Animated Header](./header.svg)
 
