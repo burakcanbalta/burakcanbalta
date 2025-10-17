@@ -1,0 +1,26 @@
+<svg width="500" height="250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- Honeypot -->
+  <rect x="200" y="100" width="100" height="60" fill="#21262d" stroke="#ffd700" stroke-width="3" rx="5">
+    <animate attributeName="stroke" values="#ffd700;#ff6b6b;#ffd700" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="250" y="135" font-family="monospace" font-size="12" fill="#ffd700" text-anchor="middle">HONEYPOT</text>
+  
+  <!-- Bot Girişi -->
+  <circle cx="50" cy="130" r="6" fill="#00ff00">
+    <animate attributeName="cx" from="50" to="200" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="50" cy="150" font-family="monospace" font-size="10" fill="#00ff00" text-anchor="middle">BOT</text>
+  
+  <!-- Trap Tetiklenme -->
+  <rect x="200" y="100" width="100" height="60" fill="none" stroke="#ff4444" stroke-width="4" rx="5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="2.8s"/>
+  </rect>
+  
+  <!-- Alert -->
+  <text x="250" y="180" font-family="monospace" font-size="14" fill="#ff4444" text-anchor="middle" opacity="0">
+    🚨 TRAP TRIGGERED!
+    <animate attributeName="opacity" values="0;1;0.7" dur="2s" repeatCount="indefinite" begin="2.8s"/>
+  </text>
+</svg>
