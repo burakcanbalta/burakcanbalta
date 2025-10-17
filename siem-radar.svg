@@ -1,0 +1,32 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- Radar Çemberleri -->
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#00ff00" stroke-width="1" opacity="0.3"/>
+  <circle cx="200" cy="200" r="100" fill="none" stroke="#00ff00" stroke-width="1" opacity="0.3"/>
+  <circle cx="200" cy="200" r="50" fill="none" stroke="#00ff00" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Tarama Çizgisi -->
+  <line x1="200" y1="200" x2="200" y2="50" stroke="#00ff00" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate" values="0 200 200;360 200 200" dur="3s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Log Events -->
+  <circle cx="250" cy="150" r="5" fill="#00ff00">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="300" cy="250" r="5" fill="#ff4444">
+    <animate attributeName="r" values="5;8;5" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#ff4444;#ff6b6b;#ff4444" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="150" cy="300" r="5" fill="#ffd700">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  
+  <!-- SIEM Text -->
+  <text x="200" y="370" font-family="monospace" font-size="14" fill="#00ff00" text-anchor="middle">
+    SIEM RADAR ACTIVE
+  </text>
+</svg>
