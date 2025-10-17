@@ -1,0 +1,36 @@
+<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- Moving Badges -->
+  <g transform="translate(300, 40)">
+    <!-- Python Badge -->
+    <rect x="-280" y="-15" width="70" height="25" fill="#3776ab" rx="3">
+      <animate attributeName="x" values="-280;300;-280" dur="12s" repeatCount="indefinite"/>
+    </rect>
+    <text x="-245" y="-2" font-family="monospace" font-size="10" fill="white" text-anchor="middle">🐍 Python</text>
+    
+    <!-- Red Team Badge -->
+    <rect x="-180" y="-15" width="85" height="25" fill="#ff4444" rx="3">
+      <animate attributeName="x" values="-180;300;-180" dur="12s" repeatCount="indefinite" begin="1.5s"/>
+    </rect>
+    <text x="-137" y="-2" font-family="monospace" font-size="10" fill="white" text-anchor="middle">🔴 Red Team</text>
+    
+    <!-- CTF Badge -->
+    <rect x="-80" y="-15" width="65" height="25" fill="#00ff00" rx="3">
+      <animate attributeName="x" values="-80;300;-80" dur="12s" repeatCount="indefinite" begin="3s"/>
+    </rect>
+    <text x="-47" y="-2" font-family="monospace" font-size="10" fill="black" text-anchor="middle">🏴 CTF</text>
+    
+    <!-- Security Badge -->
+    <rect x="20" y="-15" width="85" height="25" fill="#ffd700" rx="3">
+      <animate attributeName="x" values="20;300;20" dur="12s" repeatCount="indefinite" begin="4.5s"/>
+    </rect>
+    <text x="62" y="-2" font-family="monospace" font-size="10" fill="black" text-anchor="middle">🛡️ Security</text>
+    
+    <!-- Network Badge -->
+    <rect x="120" y="-15" width="90" height="25" fill="#58a6ff" rx="3">
+      <animate attributeName="x" values="120;300;120" dur="12s" repeatCount="indefinite" begin="6s"/>
+    </rect>
+    <text x="165" y="-2" font-family="monospace" font-size="10" fill="white" text-anchor="middle">🌐 Network</text>
+  </g>
+</svg>
