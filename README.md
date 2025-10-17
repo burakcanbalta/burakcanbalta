@@ -53,13 +53,44 @@
 
 | Tool | Mission Profile |
 |------|----------------|
-| `SmartNetShield` | Adaptive packet inspection firewall with live rule injection & forensic evasion |
-| `BlackStormDOS` | Stealth-mode DoS orchestrator with dynamic proxy & WAF fingerprinting |
-| `GhostVPN` | Autonomous VPN switcher, kill-switch logic, log wipers, dark mode |
-| `SSH BruteForcer GUI` | PyQt5-based password brute-force engine with AI-driven probability analysis |
-| `MITM Defender` | ARP/MITM detection and active countermeasure toolkit |
-| `AI-Social-OSINT` | Passive OSINT pipeline, social footprint profiling, behavior tracking |
-| `Sentinel` | AI-powered offensive security framework with modular exploit delivery & CVSS scoring |
+| [`SmartNetShield`](https://github.com/burakcanbalta/SmartNetShield) | Adaptive packet inspection firewall with live rule injection & forensic evasion |
+| [`BlackStormDOS`](https://github.com/burakcanbalta/BlackStormDOS) | Stealth-mode DoS orchestrator with dynamic proxy & WAF fingerprinting |
+| [`GhostVPN`](https://github.com/burakcanbalta/GhostVPN) | Autonomous VPN switcher, kill-switch logic, log wipers, dark mode |
+| [`MITM Defender`](https://github.com/burakcanbalta/MITM-Defender) | ARP/MITM detection and active countermeasure toolkit |
+| [`AI-Social-OSINT`](https://github.com/burakcanbalta/AI-Social-OSINT) | Passive OSINT pipeline, social footprint profiling, behavior tracking |
+| [`Sentinel`](https://github.com/burakcanbalta/Sentinel) | AI-powered offensive security framework with modular exploit delivery & CVSS scoring |
+| [`ShellCraft`](https://github.com/burakcanbalta/shell) | Advanced shell development toolkit & reverse shell generator |
+| [`InfoSec Toolkit`](https://github.com/burakcanbalta/infosec) | Comprehensive information security utilities & penetration testing tools |
+| [`SQLiScan Pro`](https://github.com/burakcanbalta/SQLiScan-Pro) | Advanced SQL injection detection & exploitation framework |
+
+---
+
+## 📚 RESEARCH & WHITEPAPERS
+
+<div align="center">
+
+### 🔬 ADVANCED CYBERSECURITY RESEARCH
+
+</div>
+
+#### **🛰️ Wireless & Hardware Security**
+- [**RFID Security Research**](https://github.com/burakcanbalta/RFID) - RFID cloning, sniffing, and security analysis
+- [**Drone C2 Research**](https://github.com/burakcanbalta/Drone-C2-Research) - Drone command & control security assessment
+- [**GPS Spoofing Research**](https://github.com/burakcanbalta/GPS-Spoofing) - GPS signal manipulation & defense mechanisms
+- [**Tesla Key Fob Security**](https://github.com/burakcanbalta/Tesla-key-fob) - Automotive security research on Tesla key systems
+- [**IMSI Catcher Detection**](https://github.com/burakcanbalta/IMSI) - Cellular network security & IMSI catcher identification
+- [**KEC Research**](https://github.com/burakcanbalta/KEC) - Advanced cryptographic & encryption research
+
+#### **🔍 Security Tools & Frameworks**
+- [**Shell Development**](https://github.com/burakcanbalta/shell) - Custom shell development & command injection research
+- [**InfoSec Toolkit**](https://github.com/burakcanbalta/infosec) - Comprehensive security assessment utilities
+- [**SQL Injection Scanner**](https://github.com/burakcanbalta/SQLiScan-Pro) - Automated SQL injection detection & exploitation
+
+#### **🎯 Ongoing Research Areas**
+- **5G Network Security** - Next-generation cellular security assessment
+- **IoT Device Exploitation** - Smart device security research
+- **Automotive Cybersecurity** - Vehicle network penetration testing
+- **Critical Infrastructure** - SCADA/ICS security research
 
 ---
 
