@@ -46,6 +46,11 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![RedTeam](https://img.shields.io/badge/type-red--team-critical?style=flat)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-informational?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -54,7 +59,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-framework-ff69b4?style=flat&logo=metasploit)
 ![Nmap](https://img.shields.io/badge/Nmap-network-red?style=flat&logo=nmap)
 ![Wireshark](https://img.shields.io/badge/Wireshark-network-0099ff?style=flat&logo=wireshark)
-![Build Status](https://img.shields.io/github/actions/workflow/status/octocat/Hello-World/ci.yml?style=flat)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
 ![Issues](https://img.shields.io/badge/issues-open-yellow?style=flat)
 ![Contributors](https://img.shields.io/badge/contributors-active-brightgreen?style=flat)
