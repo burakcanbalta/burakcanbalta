@@ -56,8 +56,7 @@
 | [`SmartNetShield`](https://github.com/burakcanbalta/SmartNetShield) | Adaptive packet inspection firewall with live rule injection & forensic evasion |
 | [`BlackStormDOS`](https://github.com/burakcanbalta/BlackStormDOS) | Stealth-mode DoS orchestrator with dynamic proxy & WAF fingerprinting |
 | [`GhostVPN`](https://github.com/burakcanbalta/GhostVPN) | Autonomous VPN switcher, kill-switch logic, log wipers, dark mode |
-| [`MITM Defender`](https://github.com/burakcanbalta/MITM-Defender) | ARP/MITM detection and active countermeasure toolkit |
-| [`AI-Social-OSINT`](https://github.com/burakcanbalta/AI-Social-OSINT) | Passive OSINT pipeline, social footprint profiling, behavior tracking |
+| [`MITM Defender`](https://github.com/burakcanbalta/mitmdefender) | ARP/MITM detection and active countermeasure toolkit |
 | [`Sentinel`](https://github.com/burakcanbalta/Sentinel) | AI-powered offensive security framework with modular exploit delivery & CVSS scoring |
 | [`ShellCraft`](https://github.com/burakcanbalta/shell) | Advanced shell development toolkit & reverse shell generator |
 | [`InfoSec Toolkit`](https://github.com/burakcanbalta/infosec) | Comprehensive information security utilities & penetration testing tools |
