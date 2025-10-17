@@ -1,9 +1,7 @@
 # ㊙ Burak BALTA ඞ Red Team Operator 🥋
+Python Junior | Network Intrusions | CTF Hunter | Penetration Testing
 
 ![Animated Header](./header.svg)
-
-## 🚀 HAKKIMDA
-Python Junior | Network Intrusions | CTF Hunter | Penetration Testing
 
 --- 
 ### 🧠 CORE DOMAINS OF INFLUENCE
@@ -65,23 +63,3 @@ Python Junior | Network Intrusions | CTF Hunter | Penetration Testing
 ![Incident](https://img.shields.io/badge/incident-response-yellow?style=flat)
 
 </div>
-
----
-
-### 📊 OPERATIONAL METRICS
-```python
-class RedTeamOperator:
-    def __init__(self):
-        self.skills = {
-            'network_operations': 85,
-            'exploit_development': 78,
-            'privilege_escalation': 82,
-            'stealth_evasion': 88,
-            'tool_development': 80
-        }
-        self.status = "ACTIVE"
-        self.mode = "STEALTH"
-        
-operator = RedTeamOperator()
-print(f"Operational Status: {operator.status}")
-print(f"Current Mode: {operator.mode}")
