@@ -1,0 +1,31 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- C2 Server -->
+  <rect x="50" y="80" width="60" height="40" fill="#21262d" stroke="#ff4444" stroke-width="2" rx="3"/>
+  <text x="80" y="105" font-family="monospace" font-size="10" fill="#ff4444" text-anchor="middle">C2</text>
+  
+  <!-- Beacon Işığı -->
+  <circle cx="80" cy="70" r="8" fill="#ff4444">
+    <animate attributeName="r" values="8;12;8" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#ff4444;#ff6b6b;#ff4444" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Gelen Paketler -->
+  <circle cx="200" cy="100" r="4" fill="#00ff00">
+    <animate attributeName="cx" from="200" to="80" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Giden Paketler -->
+  <circle cx="80" cy="100" r="4" fill="#58a6ff">
+    <animate attributeName="cx" from="80" to="200" dur="1.8s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="opacity" values="1;0" dur="1.8s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  
+  <!-- DNS/ICMP Text -->
+  <text x="200" y="120" font-family="monospace" font-size="10" fill="#c9d1d9" text-anchor="middle">
+    DNS/ICMP Beaconing
+    <animate attributeName="fill" values="#c9d1d9;#ff4444;#c9d1d9" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
