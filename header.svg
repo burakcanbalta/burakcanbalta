@@ -1,54 +1,68 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Arkaplan -->
   <rect width="100%" height="100%" fill="#0d1117"/>
   
-  <!-- Terminal Cursor Animation -->
-  <text x="50" y="50" font-family="monospace" font-size="14" fill="#00ff00">
-    <tspan x="50" y="50">$ whoami</tspan>
-    <tspan x="50" y="70">Burak BALTA - Red Team Operator</tspan>
-    <tspan x="50" y="90">$ status: [</tspan>
-    <tspan x="168" y="90" fill="#ff4444" id="cursor">█</tspan>
-    <tspan x="182" y="90">] STEALTH_MODE</tspan>
+  <!-- Yazı Animasyonu -->
+  <text x="50" y="60" font-family="'Courier New', monospace" font-size="16" fill="#00ff00">
+    <tspan x="50" y="60">Burak BALTA — Red Team Operator</tspan>
   </text>
   
-  <!-- Network Signal Waves -->
-  <circle cx="700" cy="40" r="8" fill="#ff4444" opacity="0.6">
-    <animate attributeName="r" values="8;15;8" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
-  </circle>
+  <!-- İlerleme Çubuğu -->
+  <rect x="50" y="80" width="400" height="10" fill="#30363d" rx="5"/>
+  <rect x="50" y="80" width="400" height="10" fill="#00ff00" rx="5">
+    <animate attributeName="width" from="0" to="400" dur="2s" fill="freeze"/>
+  </rect>
   
-  <!-- Red Team Badge -->
-  <circle cx="750" cy="40" r="12" fill="none" stroke="#ff4444" stroke-width="2">
-    <animate attributeName="stroke-dasharray" values="0,100;100,0" dur="3s" repeatCount="indefinite"/>
-  </circle>
+  <!-- VPN Tünel Animasyonu -->
+  <line x1="500" y1="50" x2="700" y2="50" stroke="#58a6ff" stroke-width="2" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" values="0;10" dur="0.5s" repeatCount="indefinite"/>
+  </line>
   
-  <!-- Scanning Dots -->
-  <circle cx="100" cy="150" r="4" fill="#00ff00">
-    <animate attributeName="cy" values="150;140;150" dur="1s" repeatCount="indefinite" begin="0s"/>
-  </circle>
-  <circle cx="120" cy="150" r="4" fill="#00ff00">
-    <animate attributeName="cy" values="150;140;150" dur="1s" repeatCount="indefinite" begin="0.2s"/>
-  </circle>
-  <circle cx="140" cy="150" r="4" fill="#00ff00">
-    <animate attributeName="cy" values="150;140;150" dur="1s" repeatCount="indefinite" begin="0.4s"/>
-  </circle>
+  <!-- IP Adresi Değişimi -->
+  <text x="500" y="40" font-family="monospace" font-size="12" fill="#58a6ff">
+    <tspan x="500" y="40">IP: 192.168.1.1</tspan>
+    <animate attributeName="fill" values="#58a6ff;#ff6b6b;#58a6ff" dur="3s" repeatCount="indefinite"/>
+  </text>
   
   <!-- C2 Beacon -->
-  <circle cx="650" cy="150" r="6" fill="#ff4444" id="beacon">
-    <animate attributeName="r" values="6;12;6" dur="1.5s" repeatCount="indefinite"/>
+  <circle cx="750" cy="100" r="8" fill="#ff4444">
+    <animate attributeName="r" values="8;15;8" dur="1.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Blinking Cursor -->
-  <animate xlink:href="#cursor" attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  <!-- Paket Hareketi -->
+  <circle cx="50" cy="100" r="4" fill="#00ff00">
+    <animate attributeName="cx" from="50" to="750" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;90;100" dur="0.5s" repeatCount="indefinite"/>
+  </circle>
   
-  <!-- Firewall Shields -->
-  <g transform="translate(500, 100)">
-    <path d="M-20,-20 L0,-35 L20,-20 L15,0 L0,15 L-15,0 Z" fill="none" stroke="#0078D7" stroke-width="2" id="blueShield">
-      <animateTransform attributeName="transform" type="rotate" values="0;15;0;-15;0" dur="4s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-15,-15 L0,-25 L15,-15 L10,5 L0,10 L-10,5 Z" fill="none" stroke="#ff4444" stroke-width="2" id="redShield">
-      <animateTransform attributeName="transform" type="rotate" values="0;-10;0;10;0" dur="3s" repeatCount="indefinite"/>
+  <!-- Kalkan Animasyonu -->
+  <g transform="translate(600, 150)">
+    <path d="M-20,-15 L0,-30 L20,-15 L15,5 L0,20 L-15,5 Z" fill="none" stroke="#ff4444" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4s" repeatCount="indefinite"/>
     </path>
   </g>
+  
+  <!-- Honeypot -->
+  <rect x="650" y="130" width="30" height="20" fill="none" stroke="#ffd700" stroke-width="2" rx="3">
+    <animate attributeName="stroke" values="#ffd700;#ff6b6b;#ffd700" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Alert Işığı -->
+  <circle cx="685" cy="140" r="3" fill="#ff4444">
+    <animate attributeName="fill" values="#ff4444;transparent" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Status -->
+  <text x="50" y="120" font-family="monospace" font-size="12" fill="#c9d1d9">
+    <tspan x="50" y="120">Status: </tspan>
+    <tspan x="100" y="120" fill="#00ff00">ACTIVE</tspan>
+    <tspan x="50" y="140">Mode: </tspan>
+    <tspan x="100" y="140" fill="#ff4444">STEALTH</tspan>
+  </text>
+  
+  <!-- Yanıp Sönen Cursor -->
+  <rect x="180" y="140" width="8" height="2" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
 </svg>
