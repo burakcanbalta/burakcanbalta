@@ -81,11 +81,6 @@
 - [**IMSI Catcher Detection**](https://github.com/burakcanbalta/IMSI) - Cellular network security & IMSI catcher identification
 - [**KEC Research**](https://github.com/burakcanbalta/KEC) - Advanced cryptographic & encryption research
 
-#### **🔍 Security Tools & Frameworks**
-- [**Shell Development**](https://github.com/burakcanbalta/shell) - Custom shell development & command injection research
-- [**InfoSec Toolkit**](https://github.com/burakcanbalta/infosec) - Comprehensive security assessment utilities
-- [**SQL Injection Scanner**](https://github.com/burakcanbalta/SQLiScan-Pro) - Automated SQL injection detection & exploitation
-
 #### **🎯 Ongoing Research Areas**
 - **5G Network Security** - Next-generation cellular security assessment
 - **IoT Device Exploitation** - Smart device security research
