@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burak BALTA - Red Team Operator</title>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <style>
+        body {
+            background: #0d1117;
+            color: #c9d1d9;
+            font-family: 'Courier New', monospace;
+            margin: 0;
+            padding: 20px;
+        }
+        .terminal {
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+            margin: 20px 0;
+            background: #161b22;
+        }
+        .command { color: #58a6ff; }
+        .output { color: #c9d1d9; }
+        .cursor { animation: blink 1s infinite; }
+        @keyframes blink { 50% { opacity: 0; } }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <div class="command">$ whoami</div>
+        <div class="output">Burak BALTA - Red Team Operator</div>
+        <br>
+        <div class="command">$ skills --show</div>
+        <div class="output">
+            • Network Security & Penetration Testing<br>
+            • Exploit Development & Reverse Engineering<br>
+            • Red Team Operations & Threat Emulation<br>
+            • Python/Bash/PowerShell Automation<br>
+            • Security Tool Development
+        </div>
+        <br>
+        <div class="command">$ status <span class="cursor">█</span></div>
+    </div>
+
+    <lottie-player 
+        src="https://assets1.lottiefiles.com/packages/lf20_gn0tojcq.json" 
+        background="transparent" 
+        speed="1" 
+        style="width: 300px; height: 300px; margin: 0 auto; display: block;" 
+        loop autoplay>
+    </lottie-player>
+</body>
+</html>
