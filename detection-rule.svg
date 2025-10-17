@@ -1,0 +1,34 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <!-- Log Lines -->
+  <g font-family="Courier New, monospace" font-size="11" fill="#c9d1d9">
+    <text x="20" y="30">[INFO] User login: admin</text>
+    <text x="20" y="50">[DEBUG] Process started: explorer.exe</text>
+    <text x="20" y="70">[WARN] Multiple failed logins: 192.168.1.15</text>
+    
+    <!-- Tetiklenen Kural -->
+    <text x="20" y="90" id="alertLine">
+      <tspan fill="#ff4444">[ALERT] Suspicious activity: Port scanning detected</tspan>
+    </text>
+    
+    <text x="20" y="110">[INFO] Firewall rule applied</text>
+  </g>
+  
+  <!-- Alert Highlight -->
+  <rect x="15" y="78" width="400" height="16" fill="none" stroke="#ff4444" stroke-width="2" rx="3" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </rect>
+  
+  <!-- Alert Işığı -->
+  <circle cx="550" cy="90" r="8" fill="#ff4444">
+    <animate attributeName="r" values="8;12;8" dur="1s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="fill" values="#ff4444;#ff6b6b;#ff4444" dur="1s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  
+  <!-- Alert Text -->
+  <text x="550" y="120" font-family="monospace" font-size="12" fill="#ff4444" text-anchor="middle" opacity="0">
+    ALERT!
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </text>
+</svg>
