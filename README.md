@@ -72,21 +72,6 @@
 
 </div>
 
-#### **🛰️ Wireless & Hardware Security**
-- [**RFID Security Research**](https://github.com/burakcanbalta/RFID) - RFID cloning, sniffing, and security analysis
-- [**Drone C2 Research**](https://github.com/burakcanbalta/Drone-C2-Research) - Drone command & control security assessment
-- [**GPS Spoofing Research**](https://github.com/burakcanbalta/GPS-Spoofing) - GPS signal manipulation & defense mechanisms
-- [**Tesla Key Fob Security**](https://github.com/burakcanbalta/Tesla-key-fob) - Automotive security research on Tesla key systems
-- [**IMSI Catcher Detection**](https://github.com/burakcanbalta/IMSI) - Cellular network security & IMSI catcher identification
-- [**KEC Research**](https://github.com/burakcanbalta/KEC) - Advanced cryptographic & encryption research
-
-#### **🎯 Ongoing Research Areas**
-- **5G Network Security** - Next-generation cellular security assessment
-- **IoT Device Exploitation** - Smart device security research
-- **Automotive Cybersecurity** - Vehicle network penetration testing
-- **Critical Infrastructure** - SCADA/ICS security research
-
----
 
 ## 🎖️ SECURITY BADGES & RECOGNITION
 
