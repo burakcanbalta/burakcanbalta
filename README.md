@@ -59,9 +59,11 @@
 | [`SQLiScan Pro`](https://github.com/burakcanbalta/SQLiScan-Pro) | Advanced SQL injection detection & exploitation framework |
 
 ---
+<div align="center">
 
 ![Badge Carousel](./badge-carousel.svg)
 
+</div>
 ### 🕶️ TECH STACK & OPS ENVIRONMENT
 
 <div align="center">
