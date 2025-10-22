@@ -68,19 +68,6 @@
 
 <div align="center">
 
-### 🔬 ADVANCED CYBERSECURITY RESEARCH
-
-</div>
-
-
-## 🎖️ SECURITY BADGES & RECOGNITION
-
-<div align="center">
-
-![Animated Shields](./shields.svg)
-
-**Red & Blue Team Expertise - Full Spectrum Cybersecurity**
-
 ![Badge Carousel](./badge-carousel.svg)
 
 </div>
