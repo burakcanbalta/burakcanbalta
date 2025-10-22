@@ -8,8 +8,7 @@
 ---
 
 <div align="center">
-
-### 🔴 OFFENSIVE CYBERSECURITY
+  
 | ![Terminal Exploit](./terminal-exploit.svg) | ![C2 Beacon](./c2-beacon.svg) |
 |:---:|:---:|
 | **Live Exploit Development** | **C2 Infrastructure** |
