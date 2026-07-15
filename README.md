@@ -1,5 +1,5 @@
 <h1 align="center">
-⚔️ Burak BALTA | Offensive Security Researcher
+   Offensive Security Researcher
 </h1>
 
 <div align="center">
