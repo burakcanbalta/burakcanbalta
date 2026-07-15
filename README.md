@@ -19,20 +19,6 @@ Security research, technical documentation, vulnerability analysis and experimen
 
 ---
 
-# ⚔️ Research Areas
-
-- Offensive Security Research
-- Web Application Security
-- Network Security Analysis
-- Wireless & Embedded Security
-- Protocol Analysis
-- Vulnerability Research
-- Security Automation
-- Detection Engineering
-- Infrastructure Security
-
----
-
 <div align="center">
 
 # 🕶️ TECH STACK & OPS ENVIRONMENT
