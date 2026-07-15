@@ -69,3 +69,9 @@ Custom security tools, automation projects and research-oriented utilities devel
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Security-yellow?style=flat)
 
 </div>
+
+<div align="center">
+
+<img src="./badge-carousel.svg" width="700">
+
+</div>
