@@ -39,6 +39,8 @@ Custom security tools, automation projects and research-oriented utilities devel
 | 🔑 [SSH Bruteforce](https://github.com/burakcanbalta/ssh-bruteforce) | SSH authentication security testing utility |
 | 💾 [PhantomDisk](https://github.com/burakcanbalta/PhantomDisk) | Storage and disk security research project |
 | 🌑 [ShadowDrop](https://github.com/burakcanbalta/ShadowDrop) | Security automation and research-focused utility |
+| 🔼 [Privilege Escalation Research](https://github.com/burakcanbalta/Privilege-escalation) | Linux and Windows privilege escalation techniques, vulnerability research and post-exploitation security studies |
+| 🐚 [Shell Development Toolkit](https://github.com/burakcanbalta/shell) | Shell development, security automation and command execution research toolkit |
 
 ---
 
