@@ -78,9 +78,3 @@ Custom security tools, automation projects and research-oriented utilities devel
 </div>
 
 ---
-
-<div align="center">
-
-### "Security is not only about finding vulnerabilities, it is about understanding systems."
-
-</div>
