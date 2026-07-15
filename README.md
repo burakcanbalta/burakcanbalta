@@ -19,47 +19,36 @@ Security research, technical documentation, vulnerability analysis and experimen
 
 ---
 
+---
+
 <div align="center">
 
 # 🕶️ TECH STACK & OPS ENVIRONMENT
 
-
-### Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat)
 ![Go](https://img.shields.io/badge/Go-Language-00ADD8?style=flat&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=flat&logo=gnu-bash)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-0078D7?style=flat&logo=powershell)
 
-
-### Security Tools
-
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-red?style=flat&logo=metasploit)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-red?style=flat&logo=nmap)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Analysis-red?style=flat&logo=nmap)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-blue?style=flat)
-
-
-### Infrastructure & Security Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker)
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat&logo=splunk)
 ![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?style=flat&logo=pfsense)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb)
 
-
-### Operating Systems
-
 ![Linux](https://img.shields.io/badge/Linux-Environment-black?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-Environment-blue?style=flat&logo=windows)
 
-
-### Security Domains
-
 ![Red Team](https://img.shields.io/badge/Red%20Team-Offensive%20Security-critical?style=flat)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Security-red?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-Monitoring-blue?style=flat)
 ![SOC](https://img.shields.io/badge/SOC-Operations-green?style=flat)
-![Firewall](https://img.shields.io/badge/Firewall-Security-green?style=flat)
+![Firewall](https://img.shields.io/badge/Firewall-Network%20Security-green?style=flat)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Security-yellow?style=flat)
 
 </div>
