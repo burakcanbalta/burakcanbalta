@@ -78,7 +78,9 @@ Custom security tools, automation projects and research-oriented utilities devel
 
 </div>
 
-```text
+
+<div style="background-color:#8B0000; padding:20px; border-radius:10px;">
+<pre>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⢠⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⢀⡏⢿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⡆⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⠿⠿⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⣾⣷⢸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⠀⠀⠀⠀⢰⣿⡀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿
@@ -112,4 +114,6 @@ Custom security tools, automation projects and research-oriented utilities devel
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡙⢿⣿⣿⠟⣹⣶⣁⠒⣊⣩⣭⡶⠶⣟⡋⠩⣽⣖⣊⣩⣽⣶⣶⣒⣛⣿⣭⠭⠷⣖⣚⡋⠭⢝⣛⡩⠿⣛⡛⠿⢶⣶⠶⠶⣖⡂⠖⣒⠶⢶⣶⣶
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡙⣧⣾⣿⣿⠿⠷⠄⢖⣛⣋⣀⣒⣚⣭⣭⣭⣐⣒⣛⠯⠿⠭⣅⣒⣪⣭⣤⠶⣟⣻⡿⠯⣖⣺⡭⠴⣞⣛⠭⣒⠚⢅⣐⡪⠥⣖⣛⡋⠥⣺
 ⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⢟⣛⣛⣛⣥⣭⣤⣴⣶⣿⣿⣿⣿⢿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣬⣝⠻⢚⣻⡯⠥⠶⢾⠿⠽⠞⣛⣿⣓⣛⣿⣻⣿⣿⣿⣛⣻⣷⠞⠻⠿⠿
-```
+</pre>
+
+</div>
