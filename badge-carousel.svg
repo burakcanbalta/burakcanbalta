@@ -1,15 +1,14 @@
-<svg width="2400" height="280" xmlns="http://www.w3.org/2000/svg">
+<svg width="2200" height="320" xmlns="http://www.w3.org/2000/svg">
 
-<!-- Background -->
-<rect width="2400"
-      height="280"
+<rect width="2200"
+      height="320"
       fill="#000000"/>
 
 
 <!-- Header -->
 
-<text x="70"
-      y="65"
+<text x="110"
+      y="85"
       font-family="Courier New, monospace"
       font-size="42"
       fill="#00d9ff"
@@ -20,58 +19,43 @@
 </text>
 
 
-<text x="75"
-      y="105"
+<text x="115"
+      y="130"
       font-family="Courier New, monospace"
-      font-size="20"
+      font-size="22"
       fill="#777">
 
 </text>
 
 
 
-<!-- Main Frame -->
+<!-- Main Panel -->
 
-<rect x="40"
-      y="145"
-      width="2320"
-      height="90"
-      rx="12"
+<rect x="80"
+      y="180"
+      width="2040"
+      height="100"
+      rx="14"
       fill="#050505"
       stroke="#00d9ff"
       stroke-width="3"/>
 
 
 
-
-<!-- Moving Pipeline -->
-
-<g>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-from="-1000 190"
-to="2600 190"
-dur="25s"
-repeatCount="indefinite"/>
-
-
-
 <!-- LSASS -->
 
-<rect x="0"
-      y="-30"
-      width="210"
-      height="60"
+<rect x="130"
+      y="205"
+      width="220"
+      height="50"
       rx="8"
       fill="#e63946"/>
 
-<text x="105"
-      y="10"
+<text x="240"
+      y="238"
       text-anchor="middle"
       font-family="Courier New"
-      font-size="24"
+      font-size="22"
       fill="white">
 
 LSASS
@@ -80,34 +64,32 @@ LSASS
 
 
 
-
-<!-- Arrow -->
-
-<text x="230"
-      y="10"
+<text x="370"
+      y="238"
       font-size="30"
       fill="#555">
 
-&gt;&gt;
+>>
 
 </text>
 
 
 
+
 <!-- MIMIKATZ -->
 
-<rect x="280"
-      y="-30"
-      width="280"
-      height="60"
+<rect x="430"
+      y="205"
+      width="300"
+      height="50"
       rx="8"
       fill="#9b59b6"/>
 
-<text x="420"
-      y="10"
+<text x="580"
+      y="238"
       text-anchor="middle"
       font-family="Courier New"
-      font-size="24"
+      font-size="22"
       fill="white">
 
 MIMIKATZ
@@ -116,32 +98,32 @@ MIMIKATZ
 
 
 
-
-<text x="590"
-      y="10"
+<text x="750"
+      y="238"
       font-size="30"
       fill="#555">
 
-&gt;&gt;
+>>
 
 </text>
 
 
 
-<!-- Kerberos -->
 
-<rect x="650"
-      y="-30"
-      width="280"
-      height="60"
+<!-- KERBEROS -->
+
+<rect x="820"
+      y="205"
+      width="300"
+      height="50"
       rx="8"
       fill="#00b894"/>
 
-<text x="790"
-      y="10"
+<text x="970"
+      y="238"
       text-anchor="middle"
       font-family="Courier New"
-      font-size="24"
+      font-size="22"
       fill="white">
 
 KERBEROS
@@ -150,32 +132,32 @@ KERBEROS
 
 
 
-
-<text x="960"
-      y="10"
+<text x="1140"
+      y="238"
       font-size="30"
       fill="#555">
 
-&gt;&gt;
+>>
 
 </text>
 
 
 
+
 <!-- KDC -->
 
-<rect x="1020"
-      y="-30"
-      width="170"
-      height="60"
+<rect x="1210"
+      y="205"
+      width="180"
+      height="50"
       rx="8"
       fill="#0984e3"/>
 
-<text x="1105"
-      y="10"
+<text x="1300"
+      y="238"
       text-anchor="middle"
       font-family="Courier New"
-      font-size="24"
+      font-size="22"
       fill="white">
 
 KDC
@@ -184,13 +166,12 @@ KDC
 
 
 
-
-<text x="1220"
-      y="10"
+<text x="1410"
+      y="238"
       font-size="30"
       fill="#555">
 
-&gt;&gt;
+>>
 
 </text>
 
@@ -199,18 +180,18 @@ KDC
 
 <!-- KRBTGT -->
 
-<rect x="1280"
-      y="-30"
-      width="230"
-      height="60"
+<rect x="1480"
+      y="205"
+      width="240"
+      height="50"
       rx="8"
       fill="#f1c40f"/>
 
-<text x="1395"
-      y="10"
+<text x="1600"
+      y="238"
       text-anchor="middle"
       font-family="Courier New"
-      font-size="24"
+      font-size="22"
       fill="black">
 
 KRBTGT
@@ -219,98 +200,37 @@ KRBTGT
 
 
 
-
-<text x="1540"
-      y="10"
+<text x="1740"
+      y="238"
       font-size="30"
       fill="#555">
 
-&gt;&gt;
+>>
 
 </text>
 
 
 
 
-<!-- Golden Ticket -->
+<!-- GOLDEN TICKET -->
 
-<rect x="1600"
-      y="-30"
-      width="420"
-      height="60"
+<rect x="1810"
+      y="205"
+      width="350"
+      height="50"
       rx="8"
       fill="#d4af37"/>
 
-<text x="1810"
-      y="10"
+<text x="1985"
+      y="238"
       text-anchor="middle"
       font-family="Courier New"
-      font-size="24"
+      font-size="22"
       fill="black">
 
 GOLDEN TICKET
 
 </text>
-
-
-
-
-<text x="2050"
-      y="10"
-      font-size="30"
-      fill="#555">
-
-&gt;&gt;
-
-</text>
-
-
-
-
-<!-- Domain -->
-
-<rect x="2110"
-      y="-30"
-      width="360"
-      height="60"
-      rx="8"
-      fill="#00ffff"/>
-
-<text x="2290"
-      y="10"
-      text-anchor="middle"
-      font-family="Courier New"
-      font-size="24"
-      fill="black">
-
-DOMAIN ACCESS
-
-</text>
-
-
-</g>
-
-
-
-
-<!-- Glow -->
-
-<rect x="40"
-      y="145"
-      width="2320"
-      height="90"
-      rx="12"
-      fill="none"
-      stroke="#00d9ff"
-      opacity="0">
-
-<animate attributeName="opacity"
-values="0;0.6;0"
-dur="4s"
-repeatCount="indefinite"/>
-
-</rect>
-
 
 
 </svg>
