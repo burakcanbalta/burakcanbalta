@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 # 📚 Deep Dive Cybersecurity Articles & Writeups
 
 Deep technical articles, security research, vulnerability analysis, CTF solutions and experimental studies focused on cybersecurity.
