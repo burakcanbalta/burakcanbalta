@@ -1,5 +1,10 @@
 <h1 align="center">🎲🎰♠ Burak BALTA ඞ Red Team Operator ♣🤑♣</h1> <p align="center"> <code>Offensive Security | Penetration Testing | Vulnerability Research — Academic ties: Uludağ Üniversitesi.</code> </p>
 
+<div align="center">
+
+<img src="./terminal-exploit.svg" width="500">
+
+</div>
 
 ---
 
