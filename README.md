@@ -1,23 +1,39 @@
 <h1 align="center">🎲🎰♠ Burak BALTA ඞ Red Team Operator ♣🤑♣</h1> <p align="center"> <code>Offensive Security | Penetration Testing | Vulnerability Research — Academic ties: Uludağ Üniversitesi.</code> </p>
 
 
-# 📚 Research & Technical Articles
+---
 
-Security research, technical documentation, vulnerability analysis and experimental studies.
+# 📚 Deep Dive Cybersecurity Articles & Writeups
+
+Deep technical articles, security research, vulnerability analysis, CTF solutions and experimental studies focused on cybersecurity.
 
 | Article / Research | Description |
 |---|---|
-| 🚁 [Drone C2 Research](https://github.com/burakcanbalta/Drone-C2-Research) | Research on drone command and control architectures, communication models and security analysis |
-| 📡 [RFID Security Research](https://github.com/burakcanbalta/RFID) | RFID communication protocols, security mechanisms and attack surface analysis |
-| 🌐 [OSI Vulnerability Research](https://github.com/burakcanbalta/osi-vulnerability) | Analysis of vulnerabilities across OSI layers and network security concepts |
-| 🏴 [CTF Writeups](https://github.com/burakcanbalta/CTF-Writeup) | Capture The Flag solutions, exploitation techniques and security methodologies |
-| 🛰️ [GPS Spoofing Research](https://github.com/burakcanbalta/GPS-Spoofing) | GPS spoofing concepts, signal manipulation techniques and security considerations |
-| 🚗 [Tesla Key Fob Security Analysis](https://github.com/burakcanbalta/Tesla-key-fob) | Automotive security research focused on keyless entry technologies |
+| 🚁 [Drone C2 Research](https://github.com/burakcanbalta/Drone-C2-Research) | Research on drone communication architectures, command & control systems and security analysis |
+| 📡 [RFID Security Research](https://github.com/burakcanbalta/RFID) | RFID communication protocols, security mechanisms and vulnerability analysis |
+| 🌐 [OSI Vulnerability Research](https://github.com/burakcanbalta/osi-vulnerability) | Security analysis and vulnerability research across OSI layers |
+| 🏴 [CTF Writeups](https://github.com/burakcanbalta/CTF-Writeup) | CTF solutions, exploitation methodologies and technical walkthroughs |
+| 🛰️ [GPS Spoofing Research](https://github.com/burakcanbalta/GPS-Spoofing) | GPS spoofing concepts, signal manipulation techniques and security implications |
+| 🚗 [Tesla Key Fob Security Analysis](https://github.com/burakcanbalta/Tesla-key-fob) | Automotive security research focused on keyless entry systems |
 | 📱 [IMSI Security Research](https://github.com/burakcanbalta/IMSI) | Mobile network identity analysis and IMSI security concepts |
-| 🔐 [KEC Research](https://github.com/burakcanbalta/KEC) | Security protocol and cryptographic research |
-| 🔥 [pfSense Network Lab](https://github.com/burakcanbalta/pfsense-network-lab) | Firewall architecture, network segmentation and infrastructure security lab |
+| 🔐 [KEC Research](https://github.com/burakcanbalta/KEC) | Security protocol analysis and cryptographic research |
+| 🔥 [pfSense Network Lab](https://github.com/burakcanbalta/pfsense-network-lab) | Firewall architecture, network segmentation and infrastructure security laboratory |
 
 ---
+
+# 🛠️ Security Tools
+
+Custom security tools, automation projects and research-oriented utilities developed for cybersecurity experimentation, testing and learning purposes.
+
+| Tool / Project | Description |
+|---|---|
+| 👻 [GhostVPN](https://github.com/burakcanbalta/ghostvpn) | VPN automation and secure networking management utility |
+| 🌐 [IP MAC Changer](https://github.com/burakcanbalta/ipmachanger) | Network interface management and MAC address changing utility |
+| 🍯 [Honeypot](https://github.com/burakcanbalta/honeypot) | Honeypot environment for attack observation and security monitoring research |
+| 💉 [SQLiScan Pro](https://github.com/burakcanbalta/SQLiScan-Pro) | SQL injection detection and web security testing framework |
+| 🔑 [SSH Bruteforce](https://github.com/burakcanbalta/ssh-bruteforce) | SSH authentication security testing utility |
+| 💾 [PhantomDisk](https://github.com/burakcanbalta/PhantomDisk) | Storage and disk security research project |
+| 🌑 [ShadowDrop](https://github.com/burakcanbalta/ShadowDrop) | Security automation and research-focused utility |
 
 ---
 
