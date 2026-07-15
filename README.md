@@ -64,11 +64,3 @@ Custom security tools, automation projects and research-oriented utilities devel
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Security-yellow?style=flat)
 
 </div>
-
-<a href="https://github.com/burakcanbalta">
-<img src="https://img.shields.io/badge/GitHub-burakcanbalta-black?style=flat&logo=github">
-</a>
-
-</div>
-
----
