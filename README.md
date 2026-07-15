@@ -65,12 +65,6 @@ Custom security tools, automation projects and research-oriented utilities devel
 
 </div>
 
----
-
-# 📫 Contact
-
-<div align="center">
-
 <a href="https://github.com/burakcanbalta">
 <img src="https://img.shields.io/badge/GitHub-burakcanbalta-black?style=flat&logo=github">
 </a>
