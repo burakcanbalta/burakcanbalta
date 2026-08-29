@@ -17,7 +17,6 @@ Deep technical articles, security research, vulnerability analysis, CTF solution
 | 🚁 [Drone C2 Research](https://github.com/burakcanbalta/Drone-C2-Research) | Research on drone communication architectures, command & control systems and security analysis |
 | 📡 [RFID Security Research](https://github.com/burakcanbalta/RFID) | RFID communication protocols, security mechanisms and vulnerability analysis |
 | 🌐 [OSI Vulnerability Research](https://github.com/burakcanbalta/osi-vulnerability) | Security analysis and vulnerability research across OSI layers |
-| 🏴 [CTF Writeups](https://github.com/burakcanbalta/CTF-Writeup) | CTF solutions, exploitation methodologies and technical walkthroughs |
 | 🛰️ [GPS Spoofing Research](https://github.com/burakcanbalta/GPS-Spoofing) | GPS spoofing concepts, signal manipulation techniques and security implications |
 | 🚗 [Tesla Key Fob Security Analysis](https://github.com/burakcanbalta/Tesla-key-fob) | Automotive security research focused on keyless entry systems |
 | 📱 [IMSI Security Research](https://github.com/burakcanbalta/IMSI) | Mobile network identity analysis and IMSI security concepts |
