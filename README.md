@@ -1,5 +1,5 @@
 <h1 align="center">
-   Offensive Security Researcher
+   Offensive Security
 </h1>
 
 <div align="center">
